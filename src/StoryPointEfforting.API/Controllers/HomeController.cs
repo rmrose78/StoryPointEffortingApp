@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using StoryPointEfforting.src.StoryPointEffortingApp.Core.Models;
 using System.Diagnostics;
 
-namespace StoryPointEfforting.Controllers
+namespace StoryPointEfforting.src.StoryPointEfforting.API.Controllers
 {
     public class HomeController : Controller
     {

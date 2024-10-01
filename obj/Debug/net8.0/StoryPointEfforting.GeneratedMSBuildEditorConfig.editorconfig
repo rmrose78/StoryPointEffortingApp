@@ -18,30 +18,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\rrose\OneDrive - TaxSlayer LLC\Desktop\Development\StoryPointEffortingApp\StoryPointEffortingApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/src/StoryPointEfforting.API/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXFN0b3J5UG9pbnRFZmZvcnRpbmcuQVBJXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/src/StoryPointEfforting.API/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXFN0b3J5UG9pbnRFZmZvcnRpbmcuQVBJXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/src/StoryPointEfforting.API/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXFN0b3J5UG9pbnRFZmZvcnRpbmcuQVBJXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/src/StoryPointEfforting.API/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXFN0b3J5UG9pbnRFZmZvcnRpbmcuQVBJXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/src/StoryPointEfforting.API/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXFN0b3J5UG9pbnRFZmZvcnRpbmcuQVBJXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/src/StoryPointEfforting.API/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXFN0b3J5UG9pbnRFZmZvcnRpbmcuQVBJXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-eqci3aay9a
+[C:/Users/rrose/OneDrive - TaxSlayer LLC/Desktop/Development/StoryPointEffortingApp/StoryPointEffortingApp/src/StoryPointEfforting.API/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXFN0b3J5UG9pbnRFZmZvcnRpbmcuQVBJXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-n9fsnkqzsh

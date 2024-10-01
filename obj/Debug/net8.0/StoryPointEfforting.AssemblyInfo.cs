@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoryPointEfforting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3457db699611a59d63718fb82cea45af8c20cf29")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoryPointEfforting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoryPointEfforting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
